@@ -1,0 +1,10 @@
+F1	Ms_d2_+4OH
+F2	Ms_d10_+4OH
+F3	Ms_d10_-4OH
+R1	Cas9Dox
+R2	Cas9ERT
+R3	U6Dox
+R5	Switch
+R6	KO-later
+R7	wt
+R8	noDNA
